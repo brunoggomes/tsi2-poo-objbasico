@@ -1,5 +1,3 @@
-import fs = require("fs")
-
 // Classe que representa uma data
 class Data {
     dia: number

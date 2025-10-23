@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var fs = require("fs");
 // Classe que representa uma data
 var Data = /** @class */ (function () {
     //construtor: fornece um valor inicia aos atributos do objeto
